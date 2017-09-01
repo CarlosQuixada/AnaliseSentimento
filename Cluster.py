@@ -6,7 +6,7 @@ from sklearn.cluster import KMeans
 from nltk.corpus import stopwords
 from time import time
 
-dataPath = 'C:/Users/Carlos/PycharmProjects/Analise/arquivoTreino/store_reviews.csv'
+dataPath = 'arquivoTreino/store_reviews.csv'
 
 class Cluster (object):
     def __init__(self):

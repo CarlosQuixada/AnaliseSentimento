@@ -8,7 +8,7 @@ sys.setdefaultencoding('utf-8')
 class Analise (object):
     def __init__(self):
 
-        self.dataPath_treino = 'C:/Users/Carlos/PycharmProjects/Analise/arquivoTreino/database2.csv'
+        self.dataPath_treino = 'arquivoTreino/database2.csv'
         self.stopwordsnltk = nltk.corpus.stopwords.words('portuguese')
         self.stopwordsnltk.append('vou')
         self.stopwordsnltk.append('tão')
