@@ -17,7 +17,7 @@ django-filters==0.2.1
 django-jet==1.0.6
 djangorestframework==3.6.3
 duplicity==0.7.6
-ecdsa==0.13
+ecdsa==0.13.3
 entrypoints==0.2.3
 enum34==1.1.2
 eyeD3==0.8
