@@ -3,7 +3,7 @@ ansible==2.3.1.0
 appdirs==1.4.3
 backports-abc==0.5
 backports.shutil-get-terminal-size==1.0.0
-bleach==2.0.0
+bleach==3.1.1
 certifi==2017.4.17
 chardet==2.3.0
 configparser==3.5.0
