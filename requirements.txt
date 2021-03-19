@@ -15,7 +15,7 @@ Django==1.11.1
 django-cors-headers==2.0.2
 django-filters==0.2.1
 django-jet==1.0.6
-djangorestframework==3.6.3
+djangorestframework==3.11.2
 duplicity==0.7.6
 ecdsa==0.13
 entrypoints==0.2.3
